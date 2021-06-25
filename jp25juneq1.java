@@ -7,7 +7,7 @@ public class jp25juneq1 {
         int b=obj.nextInt(); 
         if(a>=0)
         {
-            System.out.println("positive\n");
+            System.out.println("positive");
         
         }
         else{
