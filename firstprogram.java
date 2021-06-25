@@ -7,9 +7,9 @@ public  class firstprogram {
         String s=obj.next();
         int a =obj.nextInt();
         int b=obj.nextInt(); 
-        System.out.println("\n");
+        System.out.print("\n");
         System.out.println(a+" "+b+" "+s);
-        System.out.println(s);
+        System.out.print(s);
         
         adi();
        
